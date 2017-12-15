@@ -4,12 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi, I'm Ibrahim! I'm a software developer interested in application security, binary exploitation, exploit developement, bug bounties.  
+I'm based in Marseille, France. 
 
-### More Information
+## Acknowlegement and Hall Of Fame 
+- Open Bug Bounty - [link](https://www.openbugbounty.org/researchers/ibrahim_draidia/certificate/)
+- Hostinger - [link](https://www.hostinger.com/wall-of-fame)
+- OpenText - [link](https://www.opentext.com/who-we-are/copyright-information/security-acknowledgements )
+- Eset Antivirus - [PDF](https://static.ibrahimdraidia.com/files/acknowledgements/2017/acknowledgement_ESET.pdf)
+- University of Minnesota - [PDF](https://static.ibrahimdraidia.com/files/acknowledgements/2017/acknowledgement_university_of_minnesota.pdf)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+## My Goals For 2018
+- Improve my hacking and communication skills
+- Contribute to information security community
+- Get involved in more open source projects
