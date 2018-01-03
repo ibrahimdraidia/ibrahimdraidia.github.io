@@ -8,6 +8,7 @@ Hi, I'm Ibrahim! I'm a software developer interested in application security, bi
 I'm based in Marseille, France. 
 
 ## Acknowlegement and Hall Of Fame 
+- Google - [link](https://bughunter.withgoogle.com/honorable_mentions/67?embed=1)
 - Open Bug Bounty - [link](https://www.openbugbounty.org/researchers/ibrahim_draidia/certificate/)
 - Hostinger - [link](https://www.hostinger.com/wall-of-fame)
 - OpenText - [link](https://www.opentext.com/who-we-are/copyright-information/security-acknowledgements )
