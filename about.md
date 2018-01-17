@@ -9,7 +9,7 @@ I'm based in Marseille, France.
 
 ## Acknowlegement and Hall Of Fame 
 - Microsoft - [link](https://technet.microsoft.com/en-us/security/cc308589.aspx)
-- Google - [link](https://bughunter.withgoogle.com/honorable_mentions/67?embed=1)
+- Google - [link](https://bughunter.withgoogle.com/profile/8e53fb22-e405-4190-8612-69ebd37421f2)
 - Open Bug Bounty - [link](https://www.openbugbounty.org/researchers/ibrahim_draidia/certificate/)
 - Hostinger - [link](https://www.hostinger.com/wall-of-fame)
 - OpenText - [link](https://www.opentext.com/who-we-are/copyright-information/security-acknowledgements )
