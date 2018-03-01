@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Client-side Template Injection AngularJS to XSS| Hostinger  
+title: Client-side Template Injection AngularJS to XSS | Hostinger  
 ---
 
 ## Introduction: 
-This is a write-up of  an AngularJS Template Injection  I found in the main domain of Hostinger. If you don't know what's client-side template injection I invite you to take a look at those links [[1]](https://portswigger.net/kb/issues/00200308_client-side-template-injection)[[2]](http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html). Please note that this is my first write-up, I hope you'll enjoy it.
+This is a write-up of  an AngularJS Template Injection  I found in the main domain of Hostinger. If you don't know what's client-side template injection I invite you to take a look at those links [[1]](https://portswigger.net/kb/issues/00200308_client-side-template-injection)[[2]](https://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html). Please note that this is my first write-up, I hope you'll enjoy it.
 
 It all started when M0R3H4X ([@berkanexo]("https://twitter.com/berkanexo")) was telling me that he got listed on Hostinger Wall Of Fame so I decided to take a look at their website.
 
@@ -13,11 +13,11 @@ A world class web hosting platform. Who has a bug bounty program.
 ## Finding the vulnerability:
 While browsing their website the first thing I noticed is that they were using AngularJS for the front, I immediately opened the Javascript console to check what version they were using.  
 
-![angularVersion]({{"/images/angularVersion.png" | absolute_url}})   
+![angularVersion]({{"/images/angularVersion.png"}})   
 
 As we can see on the above image, they were using the version 1.5.1. I knew the existance of a payload for that version. The only thing left todo was to check if they were vulenrable to template injection. On the main page of the website was a form to find a unique domain. 
 
-![findDomainImage]({{"/images/findDomain.png" | absolute_url}})  
+![findDomainImage]({{"/images/findDomain.png"}})  
 
 I inserted the following: **toto{\{4-2\}}** and the result was: **toto2** which mean they were vulnerable to template injection. It was not enough. I needed to proof that we can run javascript code.   
 
@@ -30,11 +30,11 @@ An alertbox should popup and should be accepted as a Proof Of Concept.
 
 Proof of Concept  using Chrome:
 
-![alertBox]({{"/images/Hostinger_chrome.png" | absolute_url}})
+![alertBox]({{"/images/Hostinger_chrome.png"}})
 
 Proof of  Concept using Edge:
 
-![alertBox]({{"/images/Hostinger_edge.png" | absolute_url}})
+![alertBox]({{"/images/Hostinger_edge.png"}})
 
 ## Timeline:
 * (23/10/2017) Reported to Hostinger
