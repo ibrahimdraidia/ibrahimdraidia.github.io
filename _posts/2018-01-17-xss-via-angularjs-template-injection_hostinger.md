@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Client-side Template Injection AngularJS to XSS in Hostinger  
+title: XSS via AngularJS Template Injection | Hostinger  
 ---
 
 ## Introduction 
