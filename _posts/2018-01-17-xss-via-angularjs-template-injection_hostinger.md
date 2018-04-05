@@ -1,6 +1,6 @@
 ---
 layout: post
-title: XSS via AngularJS Template Injection | Hostinger  
+title: Reflected XSS via AngularJS Template Injection | Hostinger  
 ---
 
 ## Introduction 
