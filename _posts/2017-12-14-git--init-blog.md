@@ -1,6 +1,6 @@
 ---
 layout: post
-title: git init blog && my goals for 2018
+title: Hello world ! I am starting a blog and here are my goals for 2018
 ---
 
 Hello world, welcome to my little paradise, I'm Taha Ibrahim DRAIDIA, I'm a software developer interested in application security, binary exploitation, exploit developement, ethical hacking and bug bounties. I never wrote a blog before, this my first time, I hope you'll like my writings. Below are the reasons why I decided to start writing a blog:   
