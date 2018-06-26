@@ -6,7 +6,7 @@ title: Hostinger bug bounty&#x3A; Reflected XSS via angularJS template injection
 ### Introduction 
 This is a write-up of  an AngularJS Template Injection  I found in the main domain of Hostinger. If you don't know what's client-side template injection I invite you to take a look at those links [[1]](https://portswigger.net/kb/issues/00200308_client-side-template-injection)[[2]](https://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html). Please note that this is my first write-up, I hope you'll enjoy it.
 
-It all started when M0R3H4X ([@berkanexo]("https://twitter.com/berkanexo")) was telling me that he got listed on Hostinger Wall Of Fame so I decided to take a look at their website.
+It all started when M0R3H4X ([@berkanexo](https://twitter.com/berkanexo)) was telling me that he got listed on Hostinger Wall Of Fame so I decided to take a look at their website.
 
 ### What is Hostinger?
 A world class web hosting platform. Who has a bug bounty program.
