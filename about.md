@@ -4,10 +4,19 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Ibrahim! I'm a software developer interested in application security, binary exploitation, exploit developement, bug bounties.  
-I'm based in Marseille, France. 
+Hello everyone, my name is Taha Ibrahim DRAIDIA. I am a DevOps engineer with a background of software development.
 
-## Acknowlegement and Hall Of Fame 
+Currently based in Marseilles, France.
+
+Here are things I am interested in at the moment:
+
+- application security (application-based and web application)
+- binary exploitation
+- exploit development
+- bug bounties
+
+
+## Acknowledgement and Hall Of Fame
 - Microsoft - [link](https://technet.microsoft.com/en-us/security/cc308589.aspx) - [link](https://technet.microsoft.com/en-us/security/cc308575)
 - Google - [link](https://bughunter.withgoogle.com/profile/8e53fb22-e405-4190-8612-69ebd37421f2)
 - Open Bug Bounty - [link](https://www.openbugbounty.org/researchers/ibrahimd/certificate/)
@@ -20,3 +29,5 @@ I'm based in Marseille, France.
 - Improve my hacking and communication skills
 - Contribute to information security community
 - Get involved in more open source projects
+
+Please feel free to reach me out by using one of the links at the bottom of this page.
