@@ -24,6 +24,7 @@ Here are things I am interested in at the moment:
 - OpenText - [link](https://www.opentext.com/who-we-are/copyright-information/security-acknowledgements )
 - Eset Antivirus - [PDF](https://static.ibrahimdraidia.com/public/files/acknowledgements/2017/acknowledgement_ESET.pdf)
 - University of Minnesota - [PDF](https://static.ibrahimdraidia.com/public/files/acknowledgements/2017/acknowledgement_university_of_minnesota.pdf)
+- OLX - [link](https://security.olx.com/security-hall-of-fame.html)
 
 ## My Goals For 2018
 - Improve my hacking and communication skills
