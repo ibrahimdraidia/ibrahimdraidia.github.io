@@ -26,9 +26,4 @@ Here are things I am interested in at the moment:
 - University of Minnesota - [PDF](https://static.ibrahimdraidia.com/public/files/acknowledgements/2017/acknowledgement_university_of_minnesota.pdf)
 - OLX - [link](https://security.olx.com/security-hall-of-fame.html)
 
-## My Goals For 2018
-- Improve my hacking and communication skills
-- Contribute to information security community
-- Get involved in more open source projects
-
 Please feel free to reach me out by using one of the links at the bottom of this page.
