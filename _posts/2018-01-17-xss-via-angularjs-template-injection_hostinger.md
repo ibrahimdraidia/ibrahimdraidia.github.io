@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hostinger bug bounty&#x3A; Reflected XSS via angularJS template injection 
+title: Reflective XSS via angularJS template injection On Hostinger 
 ---
 
 ### Introduction 
