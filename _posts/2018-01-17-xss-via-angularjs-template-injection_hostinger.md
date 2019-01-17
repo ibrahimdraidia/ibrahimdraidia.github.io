@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reflective XSS via angularJS template injection On Hostinger 
+title: Reflective XSS via angularJS template injection - Hostinger
 date: 2018-08-17
 ---
 
