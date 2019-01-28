@@ -21,7 +21,7 @@ Let's take a closer look at it:
 ```
 content-security-policy: frame-ancestors 'self' https://*.mod-tools.com:*
 ```
-Basically it says that you can only frame *olx.co.za*, *olx.com.gh* if your origin is a subdomain of *mod-tools.com*.
+Basically it says that you can only frame *olx.co.za*, *olx.com.gh* if your origin is a subdomain of *mod-tools.com* (using HTTPS only on any port).
 
 So my plan was:
 * Subdomain Enumeration
