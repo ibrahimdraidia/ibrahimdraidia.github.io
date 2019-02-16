@@ -1,10 +1,10 @@
 ---
 layout: default
-permalink: /categories/
+permalink: /categories
 title: Categories 
 ---
 
-<div id="archives">
+<div id="categories">
     {% for category in site.categories %}
         {% capture category_name %}{{ category | first }}{% endcapture %}
         <h2>{{category_name}}</h2>

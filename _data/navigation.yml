@@ -1,12 +1,8 @@
 - name: Home
   link: /
 - name: Categories
-  link: /categories/
-- name: Tags
-  link: /tags/
-- name: Vulnerabilities
-  link: /vulnerabilities
-- name: Projects
-  link: /projects/
+  link: /categories
+- name: Archive
+  link: /archive
 - name: About
-  link: /about/
+  link: /about
