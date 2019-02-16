@@ -1,8 +1,7 @@
 ---
 layout: post
-title: Reflective XSS via angularJS template injection On Hostinger 
-categories: [writeup, bugbounty]
-tags: [xss]
+title: Reflective XSS via angularJS template injection - Hostinger
+categories: [bugbounty]
 date: 2018-08-17
 ---
 

@@ -1,8 +1,6 @@
 ---
 layout: post
 title: Hello Blog ! My goals for 2018
-categories: [blog]
-tags: [post]
 date: 2017-12-14
 ---
 
