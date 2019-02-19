@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello everyone, my name is Taha Ibrahim DRAIDIA. I am a DevOps engineer with a background of software development.
 
-Currently based in Marseilles, France.
+Currently based in Rennes, France.
 
 Here are things I am interested in at the moment:
 
