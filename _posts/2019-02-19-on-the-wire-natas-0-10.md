@@ -298,3 +298,6 @@ Manuel:
 ![natas10](/images/overthewire_natas/natas10_01.png)
 
 The password: `U82q5TCMMQ9xuFoI3dYX61s7OZD9JKoK`
+
+
+Thanks for reading, Happy hacking.
