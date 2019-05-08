@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello everyone, my name is Taha Ibrahim DRAIDIA. I am a security enthusiast with a background of software development.
 
-Currently based in Rennes, France.
+Currently based in France.
 
 Here are things I am interested in at the moment:
 
@@ -15,7 +15,7 @@ Here are things I am interested in at the moment:
 - exploit development
 - bug bounties
 
-
+<!--
 ## Acknowledgement and Hall Of Fame
 - Microsoft - [link](https://technet.microsoft.com/en-us/security/cc308589.aspx) - [link](https://technet.microsoft.com/en-us/security/cc308575)
 - Google - [link](https://bughunter.withgoogle.com/profile/8e53fb22-e405-4190-8612-69ebd37421f2)
@@ -25,5 +25,5 @@ Here are things I am interested in at the moment:
 - Eset Antivirus - [PDF](https://static.ibrahimdraidia.com/public/files/acknowledgements/2017/acknowledgement_ESET.pdf)
 - University of Minnesota - [PDF](https://static.ibrahimdraidia.com/public/files/acknowledgements/2017/acknowledgement_university_of_minnesota.pdf)
 - OLX - [link](https://security.olx.com/security-hall-of-fame.html)
-
+-->
 Please feel free to reach me out by using one of the links at the bottom of this page.
