@@ -13,9 +13,6 @@ Here are things I am interested in at the moment:
 - application security (application-based and web application)
 - binary exploitation
 - exploit development
-<!--
-- bug bounties
--->
 
 <!--
 ## Acknowledgement and Hall Of Fame
