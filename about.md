@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hello everyone, my name is Taha Ibrahim DRAIDIA. I am a security enthusiast with a background of software development.
+Hello everyone ! My name is Taha Ibrahim DRAIDIA. I am a security enthusiast with a background of software development.
 
 Currently based in France.
 
