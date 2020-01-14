@@ -1,13 +1,10 @@
 ---
 layout: default
-pagination:
-  enabled: true
-  permalink: '/:num/'
 ---
 
 <div class="posts">
 
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
 
     <article class="post">
 
