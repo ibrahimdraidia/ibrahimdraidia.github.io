@@ -1,4 +1,4 @@
-- name: Posts
-  link: /
 - name: Categories
   link: /categories
+- name: Posts
+  link: /
