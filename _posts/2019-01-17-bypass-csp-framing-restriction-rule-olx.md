@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bypass Content Security Policy framing restriction rule - OLX
-categories: [bugbounty]
+categories: ["bug bounty"]
 date: 2019-01-17
 ---
 
