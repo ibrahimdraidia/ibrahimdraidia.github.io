@@ -1,4 +1,4 @@
-- name: Categories
-  link: /categories
-- name: Posts
+- name: Github
+  link: https://github.com/ibrahimdraidia
+- name: Home
   link: /
