@@ -1,4 +1,6 @@
 - name: Github
   link: https://github.com/ibrahimdraidia
+- name: Search
+  link: /search 
 - name: Home
   link: /
