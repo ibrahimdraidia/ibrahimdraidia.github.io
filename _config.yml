@@ -91,3 +91,5 @@ exclude:
 
 paginate: 3
 paginate_path: "/blog/page:num/"
+
+theme: jekyll-theme-midnight
